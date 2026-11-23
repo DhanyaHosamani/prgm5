@@ -1,2 +1,2 @@
 original content
-local changes
+local changes.
